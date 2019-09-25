@@ -1,17 +1,17 @@
-# Nim basics
+# Основы Nim
 
-These are the source files for [Nim basics](https://narimiran.github.io/nim-basics/) tutorial.
-
-
-
-## Contributing
-
-Please report any errors to the [issue tracker](https://github.com/narimiran/nim-basics/issues).
-
-Pull requests are welcome, but before making (significant) changes, please open an issue so it can be discussed what is the best way to tackle the specific problem.
+Это русский перевод исходных файлов для учебника [Nim basics](https://narimiran.github.io/nim-basics/)
 
 
 
-## License
+## Сотрудничество
 
-[MIT License](LICENSE.txt)
+Пожалуйста, сообщайте о любых ошибках в [отслеживание проблем](https://github.com/narimiran/nim-basics/issues).
+
+Pull-запросы приветствуются, но перед внесением (существенных) изменений, пожалуйста, откройте проблему на GitHub, чтобы можно было обсудить, как лучше всего решить конкретную проблему.
+
+
+
+## Лицензия
+
+[Лицензия MIT](LICENSE.txt)
